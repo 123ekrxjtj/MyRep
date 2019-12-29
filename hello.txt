@@ -1,6 +1,3 @@
 1
 2
-<<<<<<< HEAD
 four
-=======
->>>>>>> parent of 4387f28... message 3
